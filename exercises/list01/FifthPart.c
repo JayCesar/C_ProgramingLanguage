@@ -9,8 +9,5 @@ int main(){
 
     printf("THe fifth part is %.2f", (number / 5));
 
-
-
-
     return 0;
 }
